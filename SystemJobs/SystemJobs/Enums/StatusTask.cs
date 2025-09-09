@@ -1,4 +1,4 @@
-﻿using System.ComponentModel;
+﻿/*using System.ComponentModel;
 
 namespace SystemJobs.Enums
 {
@@ -13,3 +13,4 @@ namespace SystemJobs.Enums
 
     }
 }
+*/

@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\data\\map\\taskmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\data\\map\\taskmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\data\\map\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\data\\map\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\data\\systemtaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\data\\systemtaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\enums\\statustask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\enums\\statustask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|c:\\users\\pc\\desktop\\project\\systemjobs\\systemjobs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF52EEA1-819E-40D6-8057-D8553976E643}|SystemJobs\\SystemJobs.csproj|solutionrelative:systemjobs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +62,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Data\\Map\\UserMap.cs",
+              "RelativeDocumentMoniker": "SystemJobs\\Data\\Map\\UserMap.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Data\\Map\\UserMap.cs",
+              "RelativeToolTip": "SystemJobs\\Data\\Map\\UserMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:32:08.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatusTask.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Enums\\StatusTask.cs",
+              "RelativeDocumentMoniker": "SystemJobs\\Enums\\StatusTask.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Enums\\StatusTask.cs",
+              "RelativeToolTip": "SystemJobs\\Enums\\StatusTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:31:47.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SystemJobs\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SystemJobs\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:59:50.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "SystemJobs\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Models\\UserModel.cs",
+              "RelativeToolTip": "SystemJobs\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:58:02.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SystemJobs\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Models\\Product.cs",
+              "RelativeToolTip": "SystemJobs\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:58:00.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SystemJobs\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "SystemJobs\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:23:59.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SystemJobs\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SystemJobs\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:23:55.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Program.cs",
+              "RelativeDocumentMoniker": "SystemJobs\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Program.cs",
+              "RelativeToolTip": "SystemJobs\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:40:13.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskMap.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Data\\Map\\TaskMap.cs",
+              "RelativeDocumentMoniker": "SystemJobs\\Data\\Map\\TaskMap.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Data\\Map\\TaskMap.cs",
+              "RelativeToolTip": "SystemJobs\\Data\\Map\\TaskMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:26:53.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SystemTaskDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Data\\SystemTaskDBContext.cs",
+              "RelativeDocumentMoniker": "SystemJobs\\Data\\SystemTaskDBContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Data\\SystemTaskDBContext.cs",
+              "RelativeToolTip": "SystemJobs\\Data\\SystemTaskDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:28:54.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\appsettings.json",
               "RelativeDocumentMoniker": "SystemJobs\\appsettings.json",
@@ -38,47 +204,32 @@
               "RelativeToolTip": "SystemJobs\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-04T16:40:48.61Z",
+              "WhenOpened": "2025-09-04T16:40:48.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SystemJobs\\Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "SystemJobs\\Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:23:58.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Program.cs",
-              "RelativeDocumentMoniker": "SystemJobs\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Program.cs",
-              "RelativeToolTip": "SystemJobs\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T16:40:13.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SystemTaskDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Data\\SystemTaskDBContext.cs",
-              "RelativeDocumentMoniker": "SystemJobs\\Data\\SystemTaskDBContext.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Data\\SystemTaskDBContext.cs",
-              "RelativeToolTip": "SystemJobs\\Data\\SystemTaskDBContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T16:28:54.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskMap.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Data\\Map\\TaskMap.cs",
-              "RelativeDocumentMoniker": "SystemJobs\\Data\\Map\\TaskMap.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Data\\Map\\TaskMap.cs",
-              "RelativeToolTip": "SystemJobs\\Data\\Map\\TaskMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T16:26:53.984Z",
-              "EditorCaption": ""
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SystemJobs\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\project\\SystemJobs\\SystemJobs\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SystemJobs\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T12:22:51.266Z"
             }
           ]
         }

@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿/*using Microsoft.EntityFrameworkCore;
 using SystemJobs.Data;
 using SystemJobs.Models;
 using SystemJobs.Repository.Interfaces;
@@ -69,3 +69,4 @@ namespace SystemJobs.Repository
 
     }
 }
+*/

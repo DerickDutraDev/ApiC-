@@ -1,4 +1,4 @@
-﻿namespace SystemJobs.Models
+﻿/*namespace SystemJobs.Models
 {
     public class UserModel
     {
@@ -10,3 +10,4 @@
 
     }
 }
+*/

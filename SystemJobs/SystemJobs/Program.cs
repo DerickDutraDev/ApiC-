@@ -1,7 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using SystemJobs.Data;
-using SystemJobs.Repository;
-using SystemJobs.Repository.Interfaces;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,7 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddEntityFrameworkSqlServer()
+/*builder.Services.AddEntityFrameworkSqlServer()
     .AddDbContext<SystemTaskDBContext>(
         options => options.UseSqlServer(
             builder.Configuration.GetConnectionString("DatabaseConnection")
@@ -22,7 +20,7 @@ builder.Services.AddEntityFrameworkSqlServer()
 
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 
-
+*/
 
 var app = builder.Build();
 

@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿/*using Microsoft.EntityFrameworkCore;
 using SystemJobs.Models;
 
 namespace SystemJobs.Data.Map
@@ -13,3 +13,4 @@ namespace SystemJobs.Data.Map
         }
     }
 }
+*/

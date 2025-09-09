@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿/*using Microsoft.EntityFrameworkCore;
 using SystemJobs.Data.Map;
 using SystemJobs.Models;
 
@@ -13,7 +13,7 @@ namespace SystemJobs.Data
         }
 
         public DbSet<UserModel> Users { get; set; }
-        public DbSet<TaskModel> Tasks { get; set; }
+        public DbSet<Product> Tasks { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -25,3 +25,4 @@ namespace SystemJobs.Data
 
     }
 }
+*/

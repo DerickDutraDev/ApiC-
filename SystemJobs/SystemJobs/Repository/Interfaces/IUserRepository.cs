@@ -1,4 +1,4 @@
-﻿using SystemJobs.Models;
+﻿/*using SystemJobs.Models;
 
 namespace SystemJobs.Repository.Interfaces
 {
@@ -12,3 +12,4 @@ namespace SystemJobs.Repository.Interfaces
 
     }
 }
+*/
